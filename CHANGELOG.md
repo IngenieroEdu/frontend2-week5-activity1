@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-15)
+
+
+### Features
+
+* nuevo cambio en la app ([2a957b3](https://github.com/IngenieroEdu/frontend2-week5-activity1/commit/2a957b3dbb16c4a901a493aa84fcd2ac40b2959f))
+
 # 1.0.0 (2026-04-12)
 
 
